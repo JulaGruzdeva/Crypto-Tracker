@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat+Subrayada:regular,700);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: 'Montserrat';
+}
+
+a {
+  color: gold;
+  text-decoration: none;
+  font-weight: 500;
+
+
+}
